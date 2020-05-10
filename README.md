@@ -21,7 +21,7 @@ Two main families are:
      * Humanist-modern(it's more readable than grotesque
      * Geometric
     
- ###Resources
+ #### Resources for typography
   * WhatFont plugin
   * font.com
   * font squirrel
