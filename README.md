@@ -2,7 +2,7 @@
 
 ## Colors palettes
 
-### Resources for color palettes
+#### Resources for color palettes
   * ColorHunt.com
   * FlatUIColors.com //for ios
   * MaterialPalette.com //for android
