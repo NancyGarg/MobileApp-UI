@@ -26,5 +26,11 @@ Two main families are:
   * font.com
   * font squirrel
   * sky fonts
+  
+## Good Parctices to follow for a good UI
+  * Use shadow effect to represent interactibility
+  * Use Overlay/dark images for having text over images
+  * Use minimal base alignments
+  * Use bolder texts for drawing user attention
     
     
