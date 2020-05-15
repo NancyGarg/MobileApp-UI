@@ -29,7 +29,7 @@
   2. Create a user flow diagram 
   3. Make Wireframe
   4. Make Mockups
-   #### Tools for them are:
+     #### Tools for them are:
    * Photoshop and illustrator
    * Sketch
    * Marvel
@@ -37,12 +37,13 @@
    * Canva
    * Moqups.com
   5. Turning these mockups into prototypes that are the animated version of thode designs
-   #### Tools 
+     #### Tools 
    * Marvel
    * Invision
    * Principle
    * proto.io
-      
+-----------------------------------------------------------------------------------------------------------------------------
+
 #### Resources for color palettes
   * ColorHunt.com
   * FlatUIColors.com //for ios
