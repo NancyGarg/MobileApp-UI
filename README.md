@@ -30,18 +30,18 @@
   3. Make Wireframe
   4. Make Mockups
      #### Tools for them are:
-   * Photoshop and illustrator
-   * Sketch
-   * Marvel
-   * UXPin.com
-   * Canva
-   * Moqups.com
+     * Photoshop and illustrator
+     * Sketch
+     * Marvel
+     * UXPin.com
+     * Canva
+     * Moqups.com
   5. Turning these mockups into prototypes that are the animated version of thode designs
      #### Tools 
-   * Marvel
-   * Invision
-   * Principle
-   * proto.io
+     * Marvel
+     * Invision
+     * Principle
+     * proto.io
 -----------------------------------------------------------------------------------------------------------------------------
 
 #### Resources for color palettes
